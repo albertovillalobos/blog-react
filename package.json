@@ -1,0 +1,20 @@
+{
+  "name": "blog-react",
+  "version": "1.0.0",
+  "description": "react+parse bloggin platform",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertovillalobos/blog-react.git"
+  },
+  "author": "alberto villalobos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertovillalobos/blog-react/issues"
+  },
+  "homepage": "https://github.com/albertovillalobos/blog-react#readme"
+}
